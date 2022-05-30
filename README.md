@@ -3,7 +3,8 @@
 # Microverse Trial-Review.
 
 Description the project.
-For the second milestone in building your portfolio website, you will create the mobile website section where you will list your portfolio projects.
+In the previous lessons, you got an introduction to the code review process and you upgraded your HTML and CSS skills. That means that you are ready to perform a code review on your code!
+
 IMPORTANT NOTE: Read all requirements before you start building your project.
 
 ## Built With
