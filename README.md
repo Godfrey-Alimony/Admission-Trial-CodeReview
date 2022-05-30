@@ -1,11 +1,20 @@
-(https://img.shields.io/badge/Microverse-blueviolet)
+- GitHub:[@Alimony-Godfrey](https://github.com/Godfrey-Alimony)
 
-# Microverse Trial.
+# Microverse Trial-Review.
 
-##Description the project.
-In the previous lessons, you got an introduction to the code review process and you upgraded your HTML and CSS skills. That means that you are ready to perform a code review on your code!
-
+Description the project.
+For the second milestone in building your portfolio website, you will create the mobile website section where you will list your portfolio projects.
 IMPORTANT NOTE: Read all requirements before you start building your project.
+
+## Built With
+
+HTML
+CSS
+Linters
+
+### Getting Started
+
+To get a local copy up and running follow these simple example steps. 1-Click on Code button. 2-Choose Download ZIP button.
 
 ### 1. Prerequisite
 
@@ -17,12 +26,19 @@ At first time, please install npm modules
 
 ```
 npm install
-```
+
+ ###To install necessary dependencies  for it to run properly,
+
+you need to initialize npm to create package.json file.
+
+npm init -y or (npm install --save-dev hint@6.x)
 
 ### 3. Demo Result
 
 ```
+
 npm start
+
 ```
 
 And you can start demo via `https://localhost:5501`
@@ -30,25 +46,27 @@ And you can start demo via `https://localhost:5501`
 ### 4. Builds for publish
 
 ```
+
 npm run build
+
 ```
 
-And you can get the builds from `./code-Review` folder
+And you can get the builds from `./web` folder
 
 ### Folder Structure of Source Code
 
-`./code-Review` build result
-
-`./src/img` all images files
-
-`package.json` dependency of the modules
+`./Admission-Trial-Code-review/MIT` file
+`./Admission-Trial-Code-review/README` file
+`./Admission-Trial-Code-review/index.html` file
+`./Admission-Trial-Code-review/mystyle.css` CSS file
+`./Admission-Trial-Code-review/package.json files
 
 ## Authors
 
 👤 **Alimony Godfrey**
 
-- GitHub: [@githubhandle](https://godfrey-alimony.github.io/google-homepage/)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/alimony-godfrey-8aba3136)
+- GitHub:[@Alimony-Godfrey](https://github.com/Godfrey-Alimony)
+- LinkedIn:[Alimony-Godfrey](https://www.linkedin.com/in/alimony-godfrey-8aba3136)
 
 🤝 Contributing
 
@@ -68,3 +86,4 @@ Acknowledgments
   📝 License
 
 This project is [MIT](./MIT.md) licensed.
+```
